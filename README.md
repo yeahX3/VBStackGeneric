@@ -1,2 +1,5 @@
-# VBStackGeneric
-Stack created in Visual Studio.Net using generic code
+# ConsoleTest001
+testing commands from console
+my line001
+
+line added from notepad
